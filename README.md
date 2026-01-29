@@ -1,7 +1,7 @@
 ##
 <div align="center">
 	<img width=100%
-  src="https://github.com/cafecitto/cafecitto/blob/main/G4smAAmXwAMdEDL.jpg?raw=true"
+  src="https://github.com/krwov/krwov/blob/main/IMG_2742.JPG"
 	</div>
 	
 ##
