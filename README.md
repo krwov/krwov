@@ -8,4 +8,4 @@
 
 
 
-$${\color{lightpurple}he \space / \space him \space + \space nineteen\space + \space\color{grey}taken \space \color{white} \space + \space intj}$$
+$${\color{lightpurple}he \space / \space him \space + \space nineteen\space + \space\color{white}intj \space \color{grey} \space + \space taken}$$
